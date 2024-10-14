@@ -33,6 +33,10 @@
 
  3. ### Output Gate:
 
-    ![](
+    ![](https://github.com/Srishti002/Stock-price-prediction/blob/main/Screenshot%202024-10-15%20003033.png)
+
+     - Ot = sigmoid ( Wo [ ht-1 , Xt ] + Bo)
+     - Pointwise ht = Ot * tanh ( [ft * Ct-1] + [ it * C't ] )
+       
       
       
