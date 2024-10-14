@@ -22,5 +22,17 @@
       - Now *'ft * Ct-1'*
 
   2. ### Input Gate:
+
+     ![](https://github.com/Srishti002/Stock-price-prediction/blob/main/Screenshot%202024-10-15%20003007.png)
+
+      - This gate is used to add values to Cell state(Long term Memory)
+      - it = sigmoid( Wi [ht-1 , Xt] + bi )
+      - C't = tanh( Wc [ht-1 , Xt] + bc)
+      - Pointwise * it * C't *
+      - Point wise *[ ft * Ct-1 ] + [ it * C't]*
+
+ 3. ### Output Gate:
+
+    ![](
       
       
