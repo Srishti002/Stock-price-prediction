@@ -10,7 +10,17 @@
 
    
 - The LSTM architecture is divided into 3 gates known as *Forget gate, Input gate, Output gate*.
-- Here, ht(hidden state) and Ct(cell state) are vector are vectors and dimensions of these two should be same.
+- Here input consists from input from previous cell state, previous hidden state, input for the currnet time t1.
+- Here, ht(hidden state) and Ct(cell state) are vectors and dimensions of these two should be same.
   
-   1. Forget Gate:
+  1. ## Forget Gate:
+      
+      ![](https://github.com/Srishti002/Stock-price-prediction/blob/main/Screenshot%202024-10-15%20002949.png)
+
+      - Forget gate is used to remove values of Cell State ( Long Term Memory)
+      - Calculate *'ft'* as ft = sigmoid( Wf [ht-1 , Xt] + bf)
+      - Now *'ft * Ct-1'*
+
+  2. ### Input Gate:
+      
       
