@@ -37,6 +37,10 @@
 
       - Ot = sigmoid ( Wo [ ht-1 , Xt ] + Bo)
       - Pointwise ht = Ot * tanh ( [ft * Ct-1] + [ it * C't ] )
+    
+## Step by Step guide :-
+   1. ### Dataloading :
+      - Using *yfinance* library of python , we download *'GOOGL'* Stock data for the last three years.
        
       
       
