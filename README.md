@@ -41,6 +41,9 @@
 ## Step by Step guide :-
    1. ### Dataloading :
       - Using *yfinance* library of python , we download *'GOOGL'* Stock data for the last three years.
+        ![](https://github.com/Srishti002/Stock-price-prediction/blob/main/Screenshot%202024-10-15%20194840.png)
+
+        ![]
        
       
       
