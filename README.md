@@ -54,7 +54,7 @@
 
         ![](https://github.com/Srishti002/Stock-price-prediction/blob/main/Screenshot%202024-10-15%20195737.png)
 
-        ![]
+        ![](https://github.com/Srishti002/Stock-price-prediction/blob/main/Screenshot%202024-10-15%20195808.png)
 
         
 
