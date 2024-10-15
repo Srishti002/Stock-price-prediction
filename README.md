@@ -56,6 +56,13 @@
 
         ![](https://github.com/Srishti002/Stock-price-prediction/blob/main/Screenshot%202024-10-15%20195808.png)
 
+      - We have to prepare our data like we have to make sequences from the given data 
+
+
+ 2. ### Model :-
+
+    ![](
+
         
 
       
