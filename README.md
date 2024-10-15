@@ -61,7 +61,7 @@
 
  2. ### Model :-
 
-    ![](
+    ![](https://github.com/Srishti002/Stock-price-prediction/blob/main/Screenshot%202024-10-16%20002137.png)
 
         
 
