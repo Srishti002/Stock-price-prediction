@@ -39,7 +39,7 @@
       - Pointwise ht = Ot * tanh ( [ft * Ct-1] + [ it * C't ] )
     
 ## Step by Step guide :-
-   1. ### Dataloading :
+   1. ### Dataloading and preprocessing :
       - Using *yfinance* library of python , we download *'GOOGL'* Stock data for the last three years.
         
         ![](https://github.com/Srishti002/Stock-price-prediction/blob/main/Screenshot%202024-10-15%20194840.png)
@@ -49,6 +49,12 @@
       - This is how our data looks like
         
         ![](https://github.com/Srishti002/Stock-price-prediction/blob/main/Screenshot%202024-10-15%20195249.png)
+
+      - Now we drop some columns and add a new column named *'date'* whose values are directly copied DataFrame's index
+
+        
+
+      
        
       
       
