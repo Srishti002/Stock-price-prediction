@@ -52,6 +52,10 @@
 
       - Now we drop some columns and add a new column named *'date'* whose values are directly copied DataFrame's index
 
+        ![](https://github.com/Srishti002/Stock-price-prediction/blob/main/Screenshot%202024-10-15%20195737.png)
+
+        ![]
+
         
 
       
